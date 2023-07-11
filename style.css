@@ -207,7 +207,7 @@
 .men__box:hover{
    /*  transform: scale(1.2); */ /* збільшення і зменшення */
    /*  transform: rotate(70deg); */ /* крутить */
-    transform: translateX(100px) translateY(-50px) rotate(360deg);
+    transform: translateX(100px) translateY(-50px) rotate(60deg);
     
 }
 .men {
